@@ -1,6 +1,6 @@
 # Quantool
 
-Quick Annotation Tool - a portable, offline image and PDF annotation app in one HTML file.
+Quick Annotation Tool - a proof-of-concept portable, offline image and PDF annotation app in one HTML file.
 
 Import images or PDF pages, mark them up, and save an editable copy or export the annotated pages. No account, server, installation, or internet connection is required to use the downloaded file.
 
