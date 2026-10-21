@@ -6,6 +6,10 @@ Import images or PDF pages, mark them up, and save an editable copy or export th
 
 This is a vibe coded proof of concept and provided as-is.
 
+## Demo
+
+You can try the proof of concept prototype at [quantool.luninoid.com](https://quantool.luninoid.com/).
+
 ## Getting started
 
 1. Download [quantool.html](quantool.html). On GitHub, download the file itself rather than saving the source-view webpage.
